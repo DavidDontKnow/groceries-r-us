@@ -4,7 +4,15 @@ export default function Home() {
   return (
     <main>
       <nav>
-        <h1>Groceries-R-Us</h1>
+        <div>
+          <h1>Groceries-R-Us</h1>
+          <Image
+            src="/groceries-r-us-logo.png"
+            alt="Groceries-R-Us Logo"
+            width={250}
+            height={250}
+          />
+        </div>
         <ul>
           <li>
             <a href="/about">About</a>
@@ -33,8 +41,8 @@ export default function Home() {
           <Image
             src="/chicken-parm.jpg"
             alt="Chicken Parmesan"
-            width={300}
-            height={300}
+            width={500}
+            height={500}
           />
           <div className="recipe-info">
             <h3>Ingredients</h3>
