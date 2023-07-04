@@ -1,4 +1,4 @@
-# Grocereis-R-Us
+# Groceries-R-Us
 
 ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg?style=plastic)
 
